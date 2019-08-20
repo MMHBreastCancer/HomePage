@@ -3458,7 +3458,7 @@ input[type="button"].btn-block {
   padding-top: 0.3125rem;
   padding-bottom: 0.3125rem;
   margin-right: 1rem;
-  font-size: 1.25rem;
+  font-size: 35px;
   line-height: inherit;
   white-space: nowrap; }
   .navbar-brand:hover, .navbar-brand:focus {
@@ -8190,7 +8190,7 @@ h1, h2, h3, h4, h5,
     .ftco-navbar-light .navbar-nav {
       padding-bottom: 10px; } }
   .ftco-navbar-light .navbar-nav > .nav-item > .nav-link {
-    font-size: 12px;
+    font-size: 15px;
     padding-top: 1.8rem;
     padding-bottom: 1.8rem;
     padding-left: 20px;
@@ -8325,8 +8325,8 @@ h1, h2, h3, h4, h5,
       color: #000000; }
 
 .navbar-brand {
-  font-size: 20px;
-  font-weight: 900;
+  font-size: 35px;
+  font-weight: 700;
   font-family: "Pacifico", cursive; }
 
 .hero {
@@ -8483,7 +8483,7 @@ h1, h2, h3, h4, h5,
         .owl-carousel.home-slider .slider-item .slider-text .subheading {
           color: #000000;
           font-weight: 700;
-          font-size: 16px;
+          font-size: 25px;
           letter-spacing: 4px;
           text-transform: uppercase;
           display: inline-block;
